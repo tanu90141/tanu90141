@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TANU SHARMA</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu90141&label=Profile%20views&color=0e75b6&style=flat" alt="tanu90141" /> </p>
 
 - 🔭 I’m **B.Tech CSE Final Year Student**
